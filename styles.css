@@ -1,0 +1,27 @@
+body {
+    margin: 60px;
+}
+
+form {
+    display: flex;
+    flex-direction: flex-start;
+}
+
+.search-bar {
+    color: black;
+    border: 1px solid;
+    border-radius: 4px;
+    width: 50%;
+    height: 30px;
+}
+
+.button {
+    margin-left: 40px;
+    background-color: gray;
+    color: #fff;
+    border-radius: 4px;
+}
+
+main {
+    margin-top: 40px;
+}
